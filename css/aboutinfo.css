@@ -1,0 +1,28 @@
+.info {
+    height: 22%;
+    max-height:480px;
+    /* max-height: 380px; */
+    margin:5px 0 ;
+    background-image: linear-gradient(to right,#ffc3a0 , #ffafbd);
+}
+.info .container{
+   width: 80%;
+    margin: auto;
+    text-align: justify;
+    font-family: monospace;
+    font-size: 1.25em;
+    line-height: 2;
+   
+}
+
+.infocontent h1{
+    font-size: 1.35em;
+    padding: 0 0 10px 0;
+    
+}
+.infocontent p{
+  
+    text-align: justify;
+}
+
+
